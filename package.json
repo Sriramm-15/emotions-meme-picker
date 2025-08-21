@@ -1,0 +1,16 @@
+{
+  "name": "meme-picker",
+  "version": "1.0.0",
+  "description": "A fun app to generate cat memes based on emotions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cat",
+    "meme",
+    "generator"
+  ],
+  "author": "Sri Ram",
+  "license": "ISC"
+}
